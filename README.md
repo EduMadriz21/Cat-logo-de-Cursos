@@ -20,4 +20,3 @@ La mini app fue desarrollada en **HTML, CSS y JavaScript**, simulando un catálo
 ## ⚙️ Ejecución
 1. Descarga o clona este repositorio:
    ```bash
-   git clone https://github.com/[tu-usuario]/catalogo-cursos.git
