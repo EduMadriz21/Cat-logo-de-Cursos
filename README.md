@@ -5,7 +5,7 @@
 Este proyecto forma parte del caso práctico **“Coordinación de tareas: asignación, seguimiento y plazos”** de la asignatura *Plataformas de Colaboración Digital*.  
 El objetivo es **diseñar y coordinar digitalmente** el desarrollo de una mini aplicación que permita **listar y buscar cursos** de ejemplo, utilizando herramientas colaborativas como **Trello** y **GitHub**.
 
-La mini app fue desarrollada en **HTML, CSS y JavaScript**, simulando un catálogo interactivo con búsqueda dinámica.
+La mini app fue desarrollada en **HTML**, simulando un catálogo interactivo con búsqueda dinámica.
 
 ---
 
@@ -16,7 +16,3 @@ La mini app fue desarrollada en **HTML, CSS y JavaScript**, simulando un catálo
 - Código simple y entendible, ideal para entornos educativos.
 
 ---
-
-## ⚙️ Ejecución
-1. Descarga o clona este repositorio:
-   ```bash
